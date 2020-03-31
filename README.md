@@ -7,3 +7,5 @@ I'll keep in mind:
 - Everyone is a beginner at some point.
 - Don't compare yourself to other people.
 - Prepare to fail. That is how you learn. 
+
+### Always maintain a growth mindset. You can do it!
