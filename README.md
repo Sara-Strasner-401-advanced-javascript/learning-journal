@@ -8,4 +8,4 @@ I'll keep in mind:
 - Don't compare yourself to other people.
 - Prepare to fail. That is how you learn. 
 
-### Always maintain a growth mindset. You can do it!
+##### Always maintain a growth mindset. You can do it!
