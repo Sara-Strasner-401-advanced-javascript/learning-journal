@@ -23,3 +23,5 @@ Whenever we refer to either a file or directory on the command line, we are in f
 
 - *Relative path* is a file or directory location relative to where we currently are in the file system.
 - *Absolute path* is a file or directory location in relation to the root of the file system.
+
+For more information about using a Terminal, see [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/).
