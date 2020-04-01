@@ -18,7 +18,7 @@ A command line, or terminal, is a text based interface to the system. You are ab
  - 'ls' is short for list and shows the files that are in your current location
  - 'cd'  stands for change directory
 
-## Paths
+### Paths
 Whenever we refer to either a file or directory on the command line, we are in fact referring to a **path.** A path is a means to get to a particular file or directory on the system.
 
 - *Relative path* is a file or directory location relative to where we currently are in the file system.
