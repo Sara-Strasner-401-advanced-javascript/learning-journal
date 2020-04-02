@@ -29,6 +29,12 @@ All files in a checked out (or working) copy of a project file are either in a t
 
 ### Check File Status
 To determine the state of files, utilize the `git status` command.
+> On branch master
+
+> nothing to commit, working directory clean
+
+This information indicates which branch you’re on and states “working directory clean,” which means that files have tracked or modified status at the moment. Also, no untracked files are present because Git has not listed any.
+
 
 ## Tracking and Staging a New File
 ### Single File
