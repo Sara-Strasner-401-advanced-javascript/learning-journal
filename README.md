@@ -2,8 +2,8 @@
 ## This is my learning journal for 102!
 
 ### Table of Contents
-- [Growth Mindset](growth-mindset.md)
-- [Markdown](markdown-notes.md)
+- [Growth Mindset](Growth-mindset.md)
+- [Markdown](Markdown-notes.md)
 - [Computer Setup](computer-setup.md)
 - [Git vs. GitHub](git-github-notes.md)
 
