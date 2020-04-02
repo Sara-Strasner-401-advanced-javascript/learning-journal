@@ -47,12 +47,12 @@ Track all files in a repository by using the following command:
 
 *After using these commands, files are tracked and staged for committing.
 
-### Committing a File
+## Committing a File
 After staging one or multiple files, you should commit the changes and record what you did within the commit message:
 
 `$ git commit -m “made change x,y,z”`
 
-### Pushing Changes
+## Pushing Changes
 Next, you would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general overview of pushing changes to remotes.
 
 Example:
