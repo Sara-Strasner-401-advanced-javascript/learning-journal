@@ -38,6 +38,7 @@ Track one file only by using the following format:
 ### All Files
 Track all files in a repository by using the following command:
 `$ git add *`
+
 *After using these commands, files are tracked and staged for committing.
 
 ### Committing a File
