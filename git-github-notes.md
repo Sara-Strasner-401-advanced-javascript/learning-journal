@@ -30,3 +30,16 @@ All files in a checked out (or working) copy of a project file are either in a t
 ### Check File Status
 To determine the state of files, utilize the `git status` command.
 
+## Tracking and Staging a New File
+### Single File
+Track one file only by using the following format:
+
+`git add filename`
+### All Files
+Track all files in a repository by using the following command:
+`$ git add *`
+*After using these commands, files are tracked and staged for committing.
+
+### Committing a File
+After staging one or multiple files, you should commit the changes and record what you did within the commit message:
+`$ git commit -m “made change x,y,z”`
