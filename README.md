@@ -7,6 +7,6 @@
 - [Computer Setup](computer-setup.md)
 - [Git vs. GitHub](git-github-notes.md)
 - [Structure Web Pages with HTML](html.md)
-- [Computer Architecture and Logiv](computers.md)
+- [Computer Architecture and Logic](computers.md)
 
 
