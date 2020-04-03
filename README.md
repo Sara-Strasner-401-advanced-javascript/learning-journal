@@ -6,5 +6,6 @@
 - [Markdown](Markdown-notes.md)
 - [Computer Setup](computer-setup.md)
 - [Git vs. GitHub](git-github-notes.md)
+- [Structure Web Pages with HTML](html.md)
 
 
