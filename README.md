@@ -10,5 +10,5 @@
 - [Computer Architecture and Logic](computers.md)
 - [CSS Notes](css-notes.md)
 - [JavaScript Notes](javascript-notes.md)
-)
+
 
