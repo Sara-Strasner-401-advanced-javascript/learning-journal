@@ -9,5 +9,6 @@
 - [Structure Web Pages with HTML](html.md)
 - [Computer Architecture and Logic](computers.md)
 - [CSS Notes](css-notes.md)
-
+- [JavaScript Notes](javascript-notes.md)
+)
 
