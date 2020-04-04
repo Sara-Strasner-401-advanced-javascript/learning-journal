@@ -8,5 +8,6 @@
 - [Git vs. GitHub](git-github-notes.md)
 - [Structure Web Pages with HTML](html.md)
 - [Computer Architecture and Logic](computers.md)
+- [CSS Notes](css-notes.md)
 
 
