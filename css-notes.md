@@ -4,7 +4,7 @@ CSS properties affect how elements are displayed. CSS associates style rules wit
  - **Selectors** indicate which element the rule applies to. The same rule can apply to more than one element if you separate the names with commas. 
  - **Declarations** indicate how the element referred to in the selector should be styled. Declarations are split into two parts (a property and a value) and are separated by a colon. 
 
-![CSS Diagram](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F5%2F53%2FCSSsyntax.JPG&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACSSsyntax.JPG&tbnid=IIEEeL_2HnuEdM&vet=12ahUKEwjVlcbBmM_oAhWRK30KHYTFD2QQMygTegUIARCUAg..i&docid=-L-PAHaRVFNUfM&w=655&h=258&q=css%20selectors%20and%20declarations%20examples&hl=en&safe=strict&ved=2ahUKEwjVlcbBmM_oAhWRK30KHYTFD2QQMygTegUIARCUAg)
+![CSS Diagram](https://upload.wikimedia.org/wikipedia/commons/5/53/CSSsyntax.JPG)
 
 ### How CSS Rules Cascade
 If there are two or more rules that apply to the same element, it is important to understand which will take precedence. 
@@ -15,7 +15,7 @@ If there are two or more rules that apply to the same element, it is important t
 ### Why use external style sheets?
 CSS rules usually appear in a separate document, although they may appear within an HTML page. By putting your CSS rules in a separate style sheet, all of your web pages can share the same style sheet. If you are just creating a single page, you might decide to put the rules in the same file to keep everything in one place. However, many authors would consider it better practice to keep the CSS in a separate file. 
 
-For commonly used CSS selectors, see [MDN CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+For commonly used CSS selectors, see [MDN CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors).
 
 
 ## Color
