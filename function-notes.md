@@ -1,6 +1,6 @@
-#Programming with JavaScript
+# Programming with JavaScript
 
-###Scripts
+### Scripts
 A **script** is a series of step-by-step instructions that a computer can follow to achieve a goal. Each time a script runs, it might only use a subset of all the instructions. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). 
 
 
