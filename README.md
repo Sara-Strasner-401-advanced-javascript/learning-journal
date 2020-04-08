@@ -11,4 +11,4 @@
 - [CSS Notes](css-notes.md)
 - [JavaScript Notes](javascript-notes.md)
 - [Function Notes](function-notes.md)
-
+- [Loops and Operators](operators.md)
